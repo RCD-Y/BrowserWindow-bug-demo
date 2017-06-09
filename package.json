@@ -1,0 +1,13 @@
+{
+  "name": "bug-display",
+  "version": "1.0.0",
+  "description": "An issue in Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.6.10"
+  }
+}
